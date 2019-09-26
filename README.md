@@ -1,61 +1,27 @@
 # Graphe
 
-Visualisation de tableaux de données temporelles sous forme de graphiques
+###Visualisation de tableaux de données temporelles sous forme de graphiques
 
-## Getting Started
+Excel reste l’outil le plus utiliser pour visualiser des données texte sous forme de graphiques. Cependant, il est nécessaire de procéder à quelques manipulations avant de tracer un graphique (convertir les données, sélectionner les plages de données, etc.) et il ne permet pas facilement de zoomer ou d’effectuer des calculs directs sur une zone du graphique.
+Le logiciel Graphe.exe permet d’afficher rapidement des gros fichiers de données et propose des fonctions telles que l’affichage de curseurs pour suivre avec précision les points d’une courbe, des calculs mathématiques directs, etc.
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+## Utilisation
+Windows 7+
 
-### Prerequisites
+## Installation
+Lancer /app/Volume/setup.exe
 
-Windows
+## Utilisation
+Consulter le fichier Logiciel GRAPHE_Instruction.pdf
 
-### Installation
-
-app/Volume/setup.exe
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
+## Tests
+Vous pouvez tester le logiciel avec les fichiers disposnibles dans /Exemples données
 
 ## Built With
+* Labview 2013
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+## Auteur
+* **Cédric PERROT** - *Travail initial* - (https://github.com/cperrot-inra/Graphe)
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Cédric PERROT** - *Initial work* - [PurpleBooth](https://github.com/cperrot-inra/Graphe)
-
-See also the list of [contributors](https://github.com/cperrot-inra/Graphe/contributors) who participated in this project.
-
-## Free License
+## License
+Gratuit
