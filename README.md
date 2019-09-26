@@ -9,7 +9,7 @@ Le logiciel Graphe.exe permet d’afficher rapidement des gros fichiers de données
 Windows 7+
 
 ## Installation
-Exécuter /app/Volume/setup.exe
+Exécuter **/app/Volume/setup.exe**
 
 ## Utilisation
 Consulter le fichier **Logiciel GRAPHE_Instruction.pdf**
@@ -17,11 +17,11 @@ Consulter le fichier **Logiciel GRAPHE_Instruction.pdf**
 ## Tests
 Vous pouvez tester le logiciel avec les fichiers disposnibles dans **/Exemples données**
 
-## Built With
+## Programmé avec
 * Labview 2013
 
 ## Auteur
-* **Cédric PERROT** - *Travail initial* - (https://github.com/cperrot-inra/Graphe)
+* **Cédric PERROT** (https://github.com/cperrot-inra)
 
 ## License
 Gratuit
