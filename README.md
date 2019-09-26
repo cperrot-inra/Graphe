@@ -17,7 +17,7 @@ Consulter **Logiciel GRAPHE_Instruction.pdf**
 ## Tests
 Fichiers de tests disponibles dans **/Exemples données**
 
-## Programmé avec
+## Programmation
 * Labview 2013
 
 ## Auteur
