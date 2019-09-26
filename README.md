@@ -6,16 +6,16 @@ Excel reste l’outil le plus utiliser pour visualiser des données texte sous form
 Le logiciel Graphe.exe permet d’afficher rapidement des gros fichiers de données et propose des fonctions telles que l’affichage de curseurs pour suivre avec précision les points d’une courbe, des calculs mathématiques directs, etc.
 
 ## Prérequis
-Windows 7+
+* Windows 7+
 
 ## Installation
-Exécuter **/app/Volume/setup.exe**
+* Exécuter **/app/Volume/setup.exe**
 
 ## Utilisation
-Consulter **Logiciel GRAPHE_Instruction.pdf**
+* Consulter **Logiciel GRAPHE_Instruction.pdf**
 
 ## Tests
-Fichiers de tests disponibles dans **/Exemples donnees**
+* Fichiers de tests disponibles dans **/Exemples donnees**
 
 ## Programmation
 * Labview 2013
@@ -24,4 +24,4 @@ Fichiers de tests disponibles dans **/Exemples donnees**
 * **Cédric PERROT** - INRA - (https://github.com/cperrot-inra)
 
 ## License
-Gratuit
+* Gratuit
