@@ -12,7 +12,7 @@ Windows 7+
 Exécuter **/app/Volume/setup.exe**
 
 ## Utilisation
-Consulter le fichier **Logiciel GRAPHE_Instruction.pdf**
+Consulter **Logiciel GRAPHE_Instruction.pdf**
 
 ## Tests
 Vous pouvez tester le logiciel avec les fichiers disposnibles dans **/Exemples données**
@@ -21,7 +21,7 @@ Vous pouvez tester le logiciel avec les fichiers disposnibles dans **/Exemples d
 * Labview 2013
 
 ## Auteur
-* **Cédric PERROT** (https://github.com/cperrot-inra)
+* **Cédric PERROT** - INRA - (https://github.com/cperrot-inra)
 
 ## License
 Gratuit
