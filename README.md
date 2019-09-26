@@ -15,7 +15,7 @@ Exécuter **/app/Volume/setup.exe**
 Consulter **Logiciel GRAPHE_Instruction.pdf**
 
 ## Tests
-Vous pouvez tester le logiciel avec les fichiers disposnibles dans **/Exemples données**
+Fichiers de tests disponibles dans **/Exemples données**
 
 ## Programmé avec
 * Labview 2013
