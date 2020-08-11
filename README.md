@@ -18,7 +18,7 @@ Le logiciel Graphe.exe permet d’afficher rapidement des gros fichiers de données
 * Fichiers de tests disponibles dans **/Exemples donnees**
 
 ## Programmation
-* Labview 2013
+* Labview 2015
 
 ## Auteur
 * **Cédric PERROT** - INRA - (https://github.com/cperrot-inra)
