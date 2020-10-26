@@ -1,0 +1,12 @@
+"%Y-%m-%d %H:%M:%S"
+"%Y/%m/%d %H:%M:%S"
+"%Y.%m.%d %H:%M:%S"
+%Y-%m-%d %H:%M:%S
+%Y/%m/%d %H:%M:%S
+%Y.%m.%d %H:%M:%S
+CSV Campbell Sci (ID YYYY JJ HHMM SS)
+%d/%m/%Y %H:%M:%S
+"%Y-%m-%d %H:%M:%S.%u"
+%d/%m/%Y
+%Y/%m/%d %H:%M:%S
+%Y-%m-%d %H:%M:%S
